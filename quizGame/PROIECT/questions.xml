@@ -1,0 +1,56 @@
+<questions>
+  <question>
+    <text>Ce organ produce insulina?</text>
+    <answers>
+      <answer>Ficatul</answer>
+      <answer>Stomacul </answer>
+      <answer>Pancreasul</answer>
+    </answers>
+    <correctAnswer>C</correctAnswer>
+  </question>
+  <question>
+    <text>Cine a scris piesa de teatru "Hamlet"?</text>
+    <answers>
+      <answer>William Shakespeare</answer>
+      <answer>Jane Austen</answer>
+      <answer>Charles Dickens</answer>
+    </answers>
+    <correctAnswer>A</correctAnswer>
+  </question>
+  <question>
+    <text>Ce ocean inconjoara insulele Hawaii?</text>
+    <answers>
+      <answer>Oceanul Atlantic</answer>
+      <answer>Oceanul Pacific </answer>
+      <answer>Oceanul Indian</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+  </question>
+  <question>
+    <text>Care este capitala Franței?</text>
+    <answers>
+      <answer>Strassbourg</answer>
+      <answer>Paris </answer>
+      <answer>Moscova</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+  </question>
+  <question>
+    <text>In ce an a început Primul Război Mondial?</text>
+    <answers>
+      <answer>1914</answer>
+      <answer>1923 </answer>
+      <answer>1912</answer>
+    </answers>
+    <correctAnswer>A</correctAnswer>
+  </question>
+  <question>
+    <text>Ce oraș a fost cunoscut în antichitate ca Byzantium?</text>
+    <answers>
+      <answer>Egipt</answer>
+      <answer>Istanbul</answer>
+      <answer>Atena</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+  </question>
+</questions>
